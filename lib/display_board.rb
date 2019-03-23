@@ -2,6 +2,10 @@
 def display_board
  puts "- |  |  "
  11.times {print "-"}
+ puts "- |  |  "
+ 11.times {print "-"}
+ puts "- |  |  "
+ 11.times {print "-"}
 end
 
 display_board
